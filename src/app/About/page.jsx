@@ -84,7 +84,7 @@ every project I work on. I look forward to the opportunity to bring my skills an
                  <span className='inline-block md:text-6xl sm:text-5xl xs:text-4xl text-7xl font-bold'>
                  <AnimateNumbern value={20} />+</span>
                 <h2 className='font-medium capitalize xl:text-center md:text-center sm:text-base xs:text-sm'>
-                satisfied client</h2>
+                satisfied client </h2>
             </div>
             <div className='flex flex-col items-end justify-center xl:text-center'>
                  <span className='inline-block md:text-6xl sm:text-5xl xs:text-4xl text-7xl font-bold'>
