@@ -2,13 +2,10 @@
 import React from 'react'
 import Cursor from './component/Cursor'
 import { motion } from 'framer-motion'
-import Transitioneffect from './component/Transitioneffect'
 import Hireme from './component/Hireme'
 import dynamic from 'next/dynamic'
 import AnimatedText from './component/AnimatedText'
 import Head from 'next/head'
-import SplineC from './component/SplineC'
-import Layout from './component/Layout'
 
 
 
@@ -35,7 +32,7 @@ const page = () => {
         <div className="">
 
         </div>
-        <div className='w-1/2 flex flex-col  justify-center items-center sm:self-start  md:pt-20 md:w-[70vw] lg:text-center'>
+        <div className='w-1/2 flex flex-col  justify-center items-center sm:self-start  md:pt-20 md:w-[75vw] sm:h-full sm:-ml-12 lg:text-center'>
           <AnimatedText className='text-left xl:!text-6xl  md:!text-5xl sm:!text-3xl'
             text="Crafting digital experiences with code and creativity!" />
 
