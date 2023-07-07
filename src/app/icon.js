@@ -5,7 +5,7 @@ const SvgComponent = (props) => (
     xmlSpace="preserve"
     width={496} 
     height={496}
-   preserveAspectRatio="x300Y300 meet"
+   preserveAspectRatio="xMidYMid meet"
     viewBox="0 0 500 500"
     fill="#ffff"
     className="w-full h-auto fill-dark dark:fill-light animate-spin-slow duration-200"

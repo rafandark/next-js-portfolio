@@ -49,8 +49,8 @@ const page = () => {
 
       </motion.div>
       <Cursor />
-{/*       
-      <Transitioneffect /> */}
+      
+      
       <Hireme />
 
       {/*  */}
